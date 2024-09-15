@@ -18,7 +18,7 @@ const questions = [
             c: "Pour interrompre l'éxécution d'un crime ou un délit contre un bien",
             d: "Pour interrompre l'éxécution d'un crime ou un délit contre autrui"
         },
-        correct: "c"
+        correct: "b"
     },
     {
         question: "Un agent de sécurité privée prend connaissance qu'un vol à main armée va se commettre, Que doit-il faire ?",
